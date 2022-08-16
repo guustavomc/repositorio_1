@@ -2,5 +2,5 @@
 
 Para rodar este projeto faça o seguinte:
 ```
-kkkkk
+node app.js
 ```
